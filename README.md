@@ -4,6 +4,8 @@
 Sản phẩm theo bảng phân công: `test_cases/`, `quantitative_results.csv`, bộ ảnh 4 ca thất bại,
 cùng hai script `eval.py` và `measure.py`.
 
+Trước khi chạy file chay_tv3.ipynb thì hãy tải file của bải báo rồi đưa vào trong này.
+
 **Trạng thái:** script đã chạy thử trên dữ liệu giả. Chưa có ảnh thật, chưa có kết quả chạy HVI-CIDNet,
 vì cần tải bộ dữ liệu, trọng số và chạy mô hình trên máy của bạn (hoặc Colab). Mọi dòng trong
 `quantitative_results.csv` có `source = bai_bao_*` là số trích từ bài báo; dòng `nhom_tu_chay`
